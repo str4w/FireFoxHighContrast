@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Firefox High Contrast Colors",
-    "version": "0.1",
+    "version": "0.2",
     "author": "Rupert Brooks",
     "description": "A simple add-on that improves contrast of the page colors. Based on Firefox Invert Colors by Max Badran",
     "homepage_url": "https://github.com/str4w/FireFoxHighContrast",
