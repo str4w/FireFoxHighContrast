@@ -4,3 +4,19 @@ html
     color: black;
     filter: invert(100%);
 }
+img
+{
+    filter: invert(100%);
+}
+/*svg
+{
+    filter: invert(100%);
+}*/
+.cameraroll-selected-photo
+{
+    filter: invert(100%);
+}
+.cameraroll-item-placeholder
+{
+    filter: invert(100%);
+}

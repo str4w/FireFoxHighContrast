@@ -1,23 +1,23 @@
 {
     "manifest_version": 2,
-    "name": "Firefox Invert Colors",
-    "version": "0.1.3",
-    "author": "Max Badran",
-    "description": "A simple add-on that inverts the page colors.",
-    "homepage_url": "https://github.com/Max-Github/FireFoxInvertColors",
+    "name": "Firefox High Contrast Colors",
+    "version": "0.1",
+    "author": "Rupert Brooks",
+    "description": "A simple add-on that improves contrast of the page colors. Based on Firefox Invert Colors by Max Badran",
+    "homepage_url": "https://github.com/str4w/FireFoxHighContrast",
     "background": {
         "scripts": [
             "background.js"
         ]
     },
-    "browser_action": {
+    "browser_action": {Ò
         "default_icon": "icons/off.svg",
-        "default_title": "Invert Colors",
+        "default_title": "High Contrast Colors",
         "browser_style": true
     },
     "applications": {
         "gecko": {
-            "id": "@firefoxinvertcolors"
+            "id": "firefoxhighcontrastcolors@github"
         }
     },
     "commands": {
